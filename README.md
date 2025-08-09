@@ -37,19 +37,25 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 <img  width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqeet-suhail&layout=donut"/>
 </p>
 
-<p>
 <h2> 🛠️ Languages and Tools </h2>
-  <img align="left" alt="C++" height="43" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
-  <img align="left" alt="C#" height="44" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/>
-  <img align="left" alt="SqlLanguage" height="45" width="40" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="sqllang"/>
-  <img align="left" alt="Vscode" height="46" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="vscode"/>
-  <img align="left" alt="VisualStudio" height="46.5" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" alt="visualstudio"/>
-  <img align="left" alt="Microsoft.netFramerwork" height="46" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-plain-wordmark.svg" alt=".net"/>
-  <img align="left" alt="Mysql" height="46" width="45" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
-  <img align="left" alt="MicrosoftSqlSever" height="47" width="44" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SqlServer"/>
-  <img align="left" alt="Illustrator" height="48" width="42" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/illustrator/illustrator-line.svg" alt="ai"/>
-  <img align="left" alt="Photoshop" height="48" width="44" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" alt="ps"/>
-  <img align="left" alt="Canva" height="50" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" alt="canva"/>
-  <img align="left" alt="Linux" height="49" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/>
-  <img vertical-align="center" alt="Rust" height="50" width="47" src="https://raw.githubusercontent.com/MuqeetSuhail/MuqeetSuhail/main/asset/rust-gradient.svg" />
+<p align="left">
+  <img alt="C++" height="45" style="vertical-align: middle;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;
+  <img alt="C#" height="45" style="vertical-align: middle;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />&nbsp;
+  <img alt="SQL" height="45" style="vertical-align: middle;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" />&nbsp;
+  <img alt="VSCode" height="45" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg?raw=true" />&nbsp;
+  <img alt="VisualStudio" height="45" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg?raw=true" />&nbsp;
+  <img alt=".NET" height="45" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-plain-wordmark.svg?raw=true" />&nbsp;
+  <img alt="MySQL" height="45" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg?raw=true" />&nbsp;
+  <img alt="SQL Server" height="45" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg?raw=true" />&nbsp;
+  <img alt="Illustrator" height="45" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/illustrator/illustrator-line.svg?raw=true" />&nbsp;
+  <img alt="Photoshop" height="45" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg?raw=true" />&nbsp;
+  <img alt="Canva" height="45" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg?raw=true" />&nbsp;
+  <img alt="Linux" height="45" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
+  <img alt="Rust" height="45" style="vertical-align: middle;" src="https://raw.githubusercontent.com/MuqeetSuhail/MuqeetSuhail/main/asset/rust-gradient.svg" />&nbsp;
+  <img alt="Terraform" height="45" style="vertical-align: middle;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" />&nbsp;
+  <img alt="Docker" height="45" style="vertical-align: middle;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />&nbsp;
+  <img alt="Postman" height="45" style="vertical-align: middle;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />&nbsp;
+  <img alt="MongoDB" height="45" style="vertical-align: middle;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 </p>
+
+
